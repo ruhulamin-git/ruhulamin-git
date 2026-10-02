@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Apnar Nam] 👋</h1>
+  <h1>Hi there, I'm Ruhul Amin 👋</h1>
   <p><strong>Software Engineer | Full-Stack & Frontend Expert | AI Automation Enthusiast</strong></p>
 
   <!-- Dynamic Stats Badges -->
